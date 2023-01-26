@@ -2,7 +2,7 @@
 
 **PS2 All In One TOOLS [LaNaveRETRO]**
 
-_This is a Free Compilation of PS2 SCENE Resources to easy out the PS2 Scene. 
+_This is a Free Compilation of PS2 SCENE Resources to easy out things. 
 Im not the Owner of This Tools.
 I hope This Help as a PS2 Resources HUB._
 
