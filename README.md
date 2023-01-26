@@ -26,6 +26,7 @@ https://www.ps2-home.com/forum/viewforum.php?f=64
 
 FMCB/FHDB v1.9 series release thread: 
 > https://www.psx-place.com/threads/fmcb-fhdb-v1-9-series-release-thread.13413/
+> https://sites.google.com/view/ysai187/home/projects/fmcbfhdb
 
 FMCB / FHDB Installer by SP193:
 > https://www.ps2-home.com/forum/viewtopic.php?f=11&t=1890
