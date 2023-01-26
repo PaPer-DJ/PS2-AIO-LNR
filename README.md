@@ -76,9 +76,9 @@ https://github.com/PaPer-DJ/PaPer_DJ-Hacks-PS2
 
 
 
-===============================================
+========================================
 FMCB & OPL TRICKS - TRUCOS PARA FMCB & OPL
-===============================================
+========================================
 
 https://www.psx-place.com/threads/igr-path.23041/
 
@@ -91,7 +91,7 @@ This makes come back from game to desired APP or OPL Menu using the combo:
 Con esto se consigue volver al Menú de OPL al salir de un juego. (o a la aplicacion .elf deseada) usando éste combo:
 [ HOLD > r1- r2- l1- l2- start - select ]
 
-===============================================
+========================================
 
 Uninstall Multi-Install in FMCB?
 > https://www.ps2-home.com/forum/viewtopic.php?t=7392
@@ -119,7 +119,7 @@ And you should also have a least 2 to 3 MB free of space on this memory card. Pl
 
 I think this answers your question, so I will go ahead and mark this topic solved. Have fun!
 
-===============================================
+========================================
 
 [TUTORIAL] [FMCB INSTALL] How to install FMCB (Free Mc Boot) on SCPH-9000x
 
