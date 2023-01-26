@@ -67,10 +67,8 @@ HDLoader Game Installer Tool (HDLGameInstaller) (Instalar Juegos en el HDD Inter
 > https://www.ps2-home.com/forum/viewtopic.php?t=2314
 
 
-=
-https://github.com/PaPer-DJ/PaPer_DJ-Hacks-PS2
-=
 
+**https://github.com/PaPer-DJ/PaPer_DJ-Hacks-PS2**
 
 
 
