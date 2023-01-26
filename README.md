@@ -76,9 +76,9 @@ https://github.com/PaPer-DJ/PaPer_DJ-Hacks-PS2
 
 
 
-========================================
+=
 FMCB & OPL TRICKS - TRUCOS PARA FMCB & OPL
-========================================
+=
 
 https://www.psx-place.com/threads/igr-path.23041/
 
