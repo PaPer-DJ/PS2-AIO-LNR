@@ -93,6 +93,11 @@ Con esto se consigue volver al Menú de OPL al salir de un juego. (o a la aplica
 
 ========================================
 
+TRADUCCIONES OPL
+> https://github.com/ps2homebrew/Open-PS2-Loader-lang
+
+========================================
+
 Uninstall Multi-Install in FMCB?
 > https://www.ps2-home.com/forum/viewtopic.php?t=7392
 
