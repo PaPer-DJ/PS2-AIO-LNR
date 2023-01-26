@@ -63,12 +63,13 @@ PSXiSO Compression Tool v0.1-R4 (CHD/ZSO) 0.1-R4
 Memory Card Annihilator (Gestionar, Clonar, Reparar Memory Cards de PSX y PS2)
 > https://www.psx-place.com/resources/memory-card-annihilator-coded-by-ffgriever-gfx-by-berion.673/
 
+HDLoader Game Installer Tool (HDLGameInstaller) (Instalar Juegos en el HDD Interno de la PS2 FAT)
+> https://www.ps2-home.com/forum/viewtopic.php?t=2314
 
 
-
-
+=
 https://github.com/PaPer-DJ/PaPer_DJ-Hacks-PS2
-
+=
 
 
 
