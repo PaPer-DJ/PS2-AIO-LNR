@@ -1,6 +1,6 @@
 # PS2-AIO-LNR
 
-**PS2 LaNaveRETRO All In One TOOLS**
+**PS2 All In One TOOLS By LaNaveRETRO**
 
 _This is a Free Compilation of PS2 SCENE Resources to easy out the PS2 Scene. 
 Im not the Owner of This Tools.
