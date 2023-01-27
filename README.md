@@ -42,6 +42,9 @@ OFFFICIAL Open-PS2-Loader:
 Open PS2 Loader with ZSO support (compressed ISO)
 > https://www.psx-place.com/threads/testers-needed-open-ps2-loader-with-zso-support-compressed-iso.37223/
 
+POPStarter Betas by krHACKen: (Cargar Juegos de PSX en PS2 desde OPL)
+> https://www.ps2-home.com/forum/viewtopic.php?f=19&t=1819
+
 POPS VCD Manager v1.3.7 - (Carga de juegos PSX en PS2 con OPL)
 > https://www.psx-place.com/resources/pops-vcd-manager.1284/
 
