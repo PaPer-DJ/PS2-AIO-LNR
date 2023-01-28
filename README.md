@@ -51,6 +51,9 @@ POPS VCD Manager v1.3.7 - (Carga de juegos PSX en PS2 con OPL)
 POPStarter Game Installer for OPL v1.0.0.1
 > https://www.psx-place.com/resources/popstarter-game-installer-for-opl.1176/
 
+POPStarter ELFs Batcher by gokuroro (Ejecutar los Juegos como si fuesen aplicaciones .elf)
+> https://www.ps2-home.com/forum/viewtopic.php?f=81&t=1648&sid=f05055b38bb34d0696c097d411fcafad
+
 POPStarter Stuff & POPS... (Todo lo necesario para los juegos de PSX en PS2)
 > https://www.ps2-home.com/forum/viewtopic.php?f=81&t=1268&sid=f05055b38bb34d0696c097d411fcafad
 
