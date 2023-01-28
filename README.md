@@ -85,6 +85,8 @@ Memory Card Annihilator (Gestionar, Clonar, Reparar Memory Cards de PSX y PS2)
 HDLoader Game Installer Tool (HDLGameInstaller) (Instalar Juegos en el HDD Interno de la PS2 FAT)
 > https://www.ps2-home.com/forum/viewtopic.php?t=2314
 
+psx-pi-smbshare by toolboc - SMB sharing for MultiMAN and Open PS2 Loader (OPL) on Raspberry Pi
+> https://www.ps2-home.com/forum/viewtopic.php?f=107&t=5859
 
 
 Otros recursos recopilados hace años (Legacy)
