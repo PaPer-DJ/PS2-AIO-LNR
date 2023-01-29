@@ -63,6 +63,9 @@ POPStarter Stuff & POPS... (Todo lo necesario para los juegos de PSX en PS2)
 POPStarter DOWNLOADS (Todo el SOFT y MODs necesarios)
 > https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/
 
+POPStarter GUIA (Todo lo necesario)
+>https://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054
+
 [MX4SIO/SIO2SD] SD Card Adapter and SD-driver for the PS2 SIO2 interface:
 > https://www.psx-place.com/threads/mx4sio-sio2sd-sd-card-adapter-and-sd-driver-for-the-ps2-sio2-interface.29210/
 IMPORTANTE - Formatear en FAT32 con CLUSTER de 16Kb o exFAT con CLUSTER DE 32Kb para evitar problemas y cuelgues. NADA de copiar borrar o modificar cosas de la SD una vez puestos los juegos. Confeccionar el contenido en el disco duro del PC, y luego pasar todo de golpe a la SD para que no quede nada desfragmentado.
